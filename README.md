@@ -1,4 +1,6 @@
 # JS-interview-test
 
-
-./Functional%20JS
+- Functional JS
+- Promises and async
+- XSS
+- Insecure Password Storage
